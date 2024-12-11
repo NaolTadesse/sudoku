@@ -1,0 +1,1 @@
+unzip the _internal before opening Sudo Application(.exe)
