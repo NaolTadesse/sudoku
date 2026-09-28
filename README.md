@@ -47,5 +47,4 @@ sudoku/
 │   └── sudoku.ico     # Application icon
 │
 ├── main.py            # Main Tkinter UI & Sudoku board logic
-├── Sudoku.exe         # Compiled Windows executable
 └── README.md          # Project documentation
