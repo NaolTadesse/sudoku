@@ -1,12 +1,3 @@
----
-
-Your eyes are completely fine—that was 100% my bad!
-
-The formatting syntax nested inside the text broke the container and split it into separate boxes on your screen.
-
-Here is **one single block** with no formatting tricks inside:
-
-```
 # 🧩 Python Sudoku Game
 
 A desktop Sudoku game built with Python and Tkinter. Features a custom brute-force board generation algorithm and a standalone Windows executable (.exe) compiled with PyInstaller.
@@ -48,7 +39,7 @@ If you want to run or inspect the code:
 
 ---
 
-##  Repository Structure
+## 📁 Repository Structure
 
 sudoku/
 │
@@ -58,5 +49,3 @@ sudoku/
 ├── main.py            # Main Tkinter UI & Sudoku board logic
 ├── Sudoku.exe         # Compiled Windows executable
 └── README.md          # Project documentation
-
-```
